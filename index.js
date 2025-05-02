@@ -1,0 +1,1 @@
+/* codul aplicației React va fi aici - copiat din canvas */
